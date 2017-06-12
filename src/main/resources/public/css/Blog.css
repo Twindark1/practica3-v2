@@ -1,0 +1,116 @@
+body{
+    background-color: #F0F8FF;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+.navbar-container {
+    padding: 20px 0 20px 0;
+}
+
+.navbar.navbar-fixed-top.fixed-theme {
+    background-color: #222;
+    border-color: #080808;
+    box-shadow: 0 0 5px rgba(0,0,0,.8);
+}
+
+.navbar-brand.fixed-theme {
+    font-size: 18px;
+}
+
+.navbar-container.fixed-theme {
+    padding: 0;
+}
+
+.navbar-brand.fixed-theme,
+.navbar-container.fixed-theme,
+.navbar.navbar-fixed-top.fixed-theme,
+.navbar-brand,
+.navbar-container{
+    transition: 0.8s;
+    -webkit-transition:  0.8s;
+}
+
+.PostContainer{
+    padding: 16px;
+    margin-top: 16px;
+    padding: 16px;
+    margin-left: 8px;
+    margin-right: 8px;
+    align-content: center;
+    justify-content: center;
+    border: solid 1px #afafaf;
+    background-color: #fafcfc;
+    box-shadow: #595959 5px 5px 2px 2px;
+}
+
+.PostContainer:hover{
+    padding: 16px;
+    margin-top: 16px;
+    padding: 16px;
+    margin-left: 8px;
+    margin-right: 8px;
+    align-content: center;
+    justify-content: center;
+    border: solid 1px #afafaf;
+    background-color: #f3f3f3;
+    box-shadow: #595959 5px 5px 2px 2px;
+}
+
+.PostContainer h2{
+    font-weight: 700;
+    color: #3d4347;
+
+}
+
+.PostContainer:hover h2{
+    font-weight: 700;
+
+
+}
+.PostContainer h3{
+    font-size: 16px;
+    color: #6d6d6d;
+}
+
+.PostContainer:hover h3{
+    font-size: 16px;
+
+}
+.PostContainer h3 span{
+    font-size: 16px;
+    color: #1e69ff;
+    font-weight: 500;
+}
+
+.PostContainer:hover h3 span{
+    font-size: 16px;
+
+    font-weight: 500;
+}
+
+.PostContainer h4{
+    font-size: 20px;
+}
+.PostContainer:hover h4{
+    font-size: 20px;
+
+}
+
+
+.MyFooter{
+   margin-top: 24px;
+   padding: 30px;
+   background-color: #1546aa;
+   color: white;
+   font-family: "Helvetica Neue";
+   font-size: 16px;
+   font-weight: 700;
+}
+
+
+/*
+ * Custom styles
+ */
