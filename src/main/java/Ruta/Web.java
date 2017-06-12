@@ -82,7 +82,7 @@ public class Web {
     public static void StartProject() {
 
         crearTablas();
-        staticFiles.location("/private");
+        staticFiles.location("/public");
 
         final Configuration configuration = new Configuration(new Version(2, 3, 0));
         configuration.setClassForTemplateLoading(Web.class, "/");

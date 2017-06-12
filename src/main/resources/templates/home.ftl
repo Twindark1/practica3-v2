@@ -58,7 +58,7 @@
                              <div class="col-md-12 col-lg-12 PostContainer">
 
                                  <div class="col-lg-3 col-md-3 text-center" style="background-color: #d1d1d1">
-                                     <img src="img/Post.jpg" width="180" style="margin: 12px;" class="text-center"/>
+                                     <img src="/img/post.png" width="180" style="margin: 12px;" class="text-center"/>
                                  </div>
 
                                  <div class="col-lg-9 col-md-9">
